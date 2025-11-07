@@ -11,10 +11,14 @@
             "id": "d32876aaafb57822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TEST 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TEST 3"
             }
           }
         ]
@@ -176,6 +180,8 @@
   },
   "active": "d32876aaafb57822",
   "lastOpenFiles": [
+    "Untitled.md",
+    "TEST 3.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
     "TEST GIT.md",
     "Test Git2.md",
