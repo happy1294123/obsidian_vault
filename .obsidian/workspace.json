@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c758e1f2ee45f8bb",
+        "id": "bf61a55975606b06",
         "type": "tabs",
         "children": [
           {
-            "id": "b2917170e9df8d3c",
+            "id": "3701f3e52841c8a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,13 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2917170e9df8d3c",
+  "active": "3701f3e52841c8a3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "test 4.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
     "test git.md",
     "test git 2.md",
     "test git 3.md",
-    "test 4.md",
     "Test Git2.md",
     "TEST GIT.md",
     "TEST 3.md",
