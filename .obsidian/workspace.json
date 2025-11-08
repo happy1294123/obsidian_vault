@@ -11,10 +11,14 @@
             "id": "531437c22c04863a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "產品類別"
             }
           }
         ]
