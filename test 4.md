@@ -5,4 +5,4 @@ Edit from iPhone
 edit from Mac
 
 
-with conflict
+with conflict ok
