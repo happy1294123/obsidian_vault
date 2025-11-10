@@ -11,10 +11,14 @@
             "id": "b106f2250cd47ac0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "存酒系統/功能改善.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "功能改善"
             }
           }
         ]
