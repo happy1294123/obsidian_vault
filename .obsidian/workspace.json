@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed75a4ee5b71ba7f",
+        "id": "8b7ed4148e27dc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "848ed5b582248930",
+            "id": "b32d77a54e573ae1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "設計思考/流程/使用票卷流程.canvas",
+                "file": "設計思考/流程圖/使用票卷流程.canvas",
                 "viewState": {
-                  "x": 548.6729247172433,
-                  "y": -6,
+                  "x": 687.5,
+                  "y": -191.62983819796955,
                   "zoom": -0.18167570709673797
                 }
               },
@@ -181,13 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "848ed5b582248930",
+  "active": "b32d77a54e573ae1",
   "lastOpenFiles": [
+    "設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷商城.png",
+    "設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷夾.png",
+    "設計思考/流程圖/使用票卷流程.canvas",
     "設計思考/設計思考 - 參考圖片/line OA QRCode.png",
-    "設計思考/流程/使用票卷流程.canvas",
     "設計思考/設計思考 - 參考圖片",
     "設計思考/會員/系統架構.md",
-    "設計思考/流程",
+    "設計思考/流程圖",
     "存酒系統/功能改善.md",
     "存酒系統/存酒系統 - 參考圖片/卡片訊息範例截圖.png",
     "存酒系統/存酒系統 - 參考圖片",
