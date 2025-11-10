@@ -11,10 +11,12 @@
             "id": "fb545f98db4b4420",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "存酒系統/參考圖片/截圖 2025-11-10 上午11.13.52.png"
+              },
+              "icon": "lucide-image",
+              "title": "截圖 2025-11-10 上午11.13.52"
             }
           }
         ]
@@ -176,7 +178,13 @@
   },
   "active": "fb545f98db4b4420",
   "lastOpenFiles": [
-    "體驗細節.md",
+    "存酒系統/功能改善.md",
+    "存酒系統/參考圖片",
+    "存酒系統/參考圖片/截圖 2025-11-10 上午11.13.52.png",
+    "存酒系統",
+    "Untitled.md",
+    "設計思考/會員/體驗細節.md",
+    "設計思考/會員",
     "設計思考/目標TA.md",
     "設計思考/規避線上賣酒.md",
     "設計思考",
@@ -196,13 +204,10 @@
     "TEST GIT.md",
     "TEST 3.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/文中系統.base",
-    "Untitled.base",
     "test.md",
     "ㄑ.md",
     "Untitled.canvas",
-    "、",
     "進銷存系統/庫存管理/基本建檔.md",
-    "進銷存系統/庫存管理/基本建檔/庫存維護",
     "進銷存系統/庫存管理.md",
     "Untitled 1.canvas",
     "2025-11-06.md",
@@ -210,7 +215,6 @@
     "().md",
     "2025-10-22.md",
     "test site 1.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
