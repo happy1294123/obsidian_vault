@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1306ad82cb7e14",
+        "id": "ec27a5af19e35fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "fb545f98db4b4420",
+            "id": "b106f2250cd47ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "存酒系統/功能改善.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "功能改善"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb545f98db4b4420",
+  "active": "b106f2250cd47ac0",
   "lastOpenFiles": [
-    "存酒系統/參考圖片/卡片訊息範例截圖.png",
     "存酒系統/功能改善.md",
+    "存酒系統/參考圖片/卡片訊息範例截圖.png",
     "存酒系統/參考圖片",
     "存酒系統",
     "Untitled.md",
