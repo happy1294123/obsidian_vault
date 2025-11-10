@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"510d2e81698815d9","type":"text","text":"   加入 Line 官方","x":-125,"y":-30,"width":165,"height":50},
+		{"id":"e10fb29ae259eace","x":140,"y":-33,"width":180,"height":53,"type":"text","text":"在商城購買票卷"},
+		{"id":"40c570e58b355a75","x":430,"y":-36,"width":250,"height":60,"type":"text","text":"支付完成，票卷放入票卷夾 "},
+		{"id":"969fdbb53abc048c","x":791,"y":-36,"width":250,"height":60,"type":"text","text":"票卷可加入 apple wallet"},
+		{"id":"089eb000ccb1fa10","x":1195,"y":-36,"width":305,"height":60,"type":"text","text":"核銷，票卷更新狀態\n（若要更新 apple wallet 要有年費）"}
+	],
+	"edges":[
+		{"id":"36d659dce986e423","fromNode":"510d2e81698815d9","fromSide":"right","toNode":"e10fb29ae259eace","toSide":"left"},
+		{"id":"dcf6a18893bdb529","fromNode":"e10fb29ae259eace","fromSide":"right","toNode":"40c570e58b355a75","toSide":"left"},
+		{"id":"787d3f5d0598951a","fromNode":"40c570e58b355a75","fromSide":"right","toNode":"969fdbb53abc048c","toSide":"left"},
+		{"id":"5cbd4a639c82bfd0","fromNode":"969fdbb53abc048c","fromSide":"right","toNode":"089eb000ccb1fa10","toSide":"left"}
+	]
+}

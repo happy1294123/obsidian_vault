@@ -11,14 +11,17 @@
             "id": "b106f2250cd47ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "設計思考/會員/系統架構.md",
-                "mode": "source",
-                "source": false
+                "file": "設計思考/流程/使用票卷流程.canvas",
+                "viewState": {
+                  "x": 670.7342598132609,
+                  "y": -45.36217264832891,
+                  "zoom": -0.2566666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "系統架構"
+              "icon": "lucide-layout-dashboard",
+              "title": "使用票卷流程"
             }
           }
         ]
@@ -180,8 +183,10 @@
   },
   "active": "b106f2250cd47ac0",
   "lastOpenFiles": [
-    "存酒系統/功能改善.md",
     "設計思考/會員/系統架構.md",
+    "設計思考/流程/使用票卷流程.canvas",
+    "設計思考/流程",
+    "存酒系統/功能改善.md",
     "存酒系統/參考圖片/卡片訊息範例截圖.png",
     "存酒系統/參考圖片",
     "存酒系統",
@@ -206,7 +211,6 @@
     "Test Git2.md",
     "TEST GIT.md",
     "TEST 3.md",
-    "進銷存系統/庫存管理/基本建檔/庫存維護/文中系統.base",
     "test.md",
     "ㄑ.md",
     "Untitled.canvas",
@@ -217,7 +221,6 @@
     "進銷存系統/進銷存系統.md",
     "().md",
     "2025-10-22.md",
-    "test site 1.md",
-    "create a link.md"
+    "test site 1.md"
   ]
 }
