@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf61a55975606b06",
+        "id": "7f1306ad82cb7e14",
         "type": "tabs",
         "children": [
           {
-            "id": "3701f3e52841c8a3",
+            "id": "fb545f98db4b4420",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "設計思考/目標TA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "目標TA"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3701f3e52841c8a3",
+  "active": "fb545f98db4b4420",
   "lastOpenFiles": [
-    "設計思考/規避線上賣酒.md",
+    "體驗細節.md",
     "設計思考/目標TA.md",
+    "設計思考/規避線上賣酒.md",
     "設計思考",
     "文中/進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
     "文中/進銷存系統/庫存管理/基本建檔/庫存維護",
