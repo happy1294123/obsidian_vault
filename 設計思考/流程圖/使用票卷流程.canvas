@@ -9,7 +9,7 @@
 		{"id":"0634d6d794943a76","type":"file","file":"設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷商城.png","x":116,"y":-460,"width":228,"height":400},
 		{"id":"03864a13fd9a7567","type":"file","file":"設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷夾.png","x":440,"y":-460,"width":230,"height":400},
 		{"id":"4622c87751eaac32","type":"file","file":"設計思考/設計思考 - 參考圖片/apple pass 示意圖.png","x":772,"y":-460,"width":269,"height":400},
-		{"id":"72b983ed80009405","type":"file","file":"設計思考/設計思考 - 參考圖片/核銷示意圖.png","x":1240,"y":-460,"width":170,"height":360}
+		{"id":"72b983ed80009405","type":"file","file":"設計思考/設計思考 - 參考圖片/核銷示意圖.png","x":1211,"y":-640,"width":273,"height":580}
 	],
 	"edges":[
 		{"id":"36d659dce986e423","fromNode":"510d2e81698815d9","fromSide":"right","toNode":"e10fb29ae259eace","toSide":"left"},
