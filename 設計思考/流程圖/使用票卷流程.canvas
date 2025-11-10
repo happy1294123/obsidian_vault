@@ -4,12 +4,12 @@
 		{"id":"e10fb29ae259eace","type":"text","text":"在商城購買票卷","x":140,"y":-33,"width":180,"height":53},
 		{"id":"40c570e58b355a75","type":"text","text":"支付完成，票卷放入票卷夾 ","x":430,"y":-36,"width":250,"height":60},
 		{"id":"969fdbb53abc048c","type":"text","text":"票卷可加入 apple wallet","x":791,"y":-36,"width":250,"height":60},
-		{"id":"089eb000ccb1fa10","type":"text","text":"核銷，票卷更新狀態\n（若要更新 apple wallet 要有年費）","x":1195,"y":-36,"width":305,"height":60},
 		{"id":"428b53fb2d363636","type":"file","file":"設計思考/設計思考 - 參考圖片/line OA QRCode.png","x":-125,"y":-220,"width":163,"height":160},
 		{"id":"0634d6d794943a76","type":"file","file":"設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷商城.png","x":116,"y":-460,"width":228,"height":400},
 		{"id":"03864a13fd9a7567","type":"file","file":"設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷夾.png","x":440,"y":-460,"width":230,"height":400},
 		{"id":"4622c87751eaac32","type":"file","file":"設計思考/設計思考 - 參考圖片/apple pass 示意圖.png","x":772,"y":-460,"width":269,"height":400},
-		{"id":"72b983ed80009405","type":"file","file":"設計思考/設計思考 - 參考圖片/核銷示意圖.png","x":1211,"y":-640,"width":273,"height":579}
+		{"id":"72b983ed80009405","type":"file","file":"設計思考/設計思考 - 參考圖片/核銷示意圖.png","x":1211,"y":-640,"width":273,"height":579},
+		{"id":"089eb000ccb1fa10","type":"text","text":"核銷，票卷更新狀態\n（pass2U）\n（若要更新 apple wallet 要有年費）","x":1211,"y":-53,"width":325,"height":96}
 	],
 	"edges":[
 		{"id":"36d659dce986e423","fromNode":"510d2e81698815d9","fromSide":"right","toNode":"e10fb29ae259eace","toSide":"left"},
