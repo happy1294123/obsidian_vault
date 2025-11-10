@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec27a5af19e35fbf",
+        "id": "ed75a4ee5b71ba7f",
         "type": "tabs",
         "children": [
           {
-            "id": "b106f2250cd47ac0",
+            "id": "848ed5b582248930",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "設計思考/流程/使用票卷流程.canvas",
                 "viewState": {
-                  "x": 670.7342598132609,
-                  "y": -45.36217264832891,
-                  "zoom": -0.2566666666666667
+                  "x": 548.6729247172433,
+                  "y": -6,
+                  "zoom": -0.18167570709673797
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -181,14 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b106f2250cd47ac0",
+  "active": "848ed5b582248930",
   "lastOpenFiles": [
-    "設計思考/會員/系統架構.md",
+    "設計思考/設計思考 - 參考圖片/line OA QRCode.png",
     "設計思考/流程/使用票卷流程.canvas",
+    "設計思考/設計思考 - 參考圖片",
+    "設計思考/會員/系統架構.md",
     "設計思考/流程",
     "存酒系統/功能改善.md",
-    "存酒系統/參考圖片/卡片訊息範例截圖.png",
-    "存酒系統/參考圖片",
+    "存酒系統/存酒系統 - 參考圖片/卡片訊息範例截圖.png",
+    "存酒系統/存酒系統 - 參考圖片",
     "存酒系統",
     "Untitled.md",
     "設計思考/會員/體驗細節.md",
@@ -201,7 +203,6 @@
     "文中/進銷存系統/庫存管理/基本建檔",
     "文中/進銷存系統/庫存管理",
     "文中/進銷存系統",
-    "文中",
     "test 4.md",
     "conflict-files-obsidian-git.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
