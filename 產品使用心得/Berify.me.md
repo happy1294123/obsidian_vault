@@ -8,5 +8,5 @@
 		- 上傳自拍
 	- 回到原始網頁端頁面
 - 功能：
-	- ＮFC tag
-	- https://www.instagram.com/reel/C2LB35MPtL6/
+	- ＮFC tag https://www.instagram.com/reel/C2LB35MPtL6/
+	- 連接區塊鏈錢包
