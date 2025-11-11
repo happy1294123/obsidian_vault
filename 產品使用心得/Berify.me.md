@@ -8,4 +8,5 @@
 		- 上傳自拍
 	- 回到原始網頁端頁面
 - 功能：
-	- 第三方登入
+	- ＮFC tag
+	- https://www.instagram.com/reel/C2LB35MPtL6/
