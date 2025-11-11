@@ -11,17 +11,14 @@
             "id": "df0c5ce4ef6d9a23",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "設計思考/流程圖/使用票卷流程.canvas",
-                "viewState": {
-                  "x": 735.5,
-                  "y": -127.56303045685279,
-                  "zoom": -0.26448308633376233
-                }
+                "file": "產品使用心得/Berify.me.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "使用票卷流程"
+              "icon": "lucide-file",
+              "title": "Berify.me"
             }
           }
         ]
@@ -181,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df0c5ce4ef6d9a23",
+  "active": "2173b074baf7d38d",
   "lastOpenFiles": [
     "設計思考/流程圖/使用票卷流程.canvas",
-    "核銷示意圖.png",
+    "產品使用心得/Berify.me.md",
+    "產品使用心得",
+    "設計思考/設計思考 - 參考圖片/核銷示意圖 1.png",
     "設計思考/設計思考 - 參考圖片/核銷示意圖.png",
     "設計思考/設計思考 - 參考圖片/apple pass 示意圖.png",
     "設計思考/設計思考 - 參考圖片/line OA 圖文選單示意圖 - 票卷商城.png",
@@ -207,7 +206,6 @@
     "文中/進銷存系統/庫存管理/基本建檔/庫存維護",
     "文中/進銷存系統/庫存管理/基本建檔",
     "文中/進銷存系統/庫存管理",
-    "文中/進銷存系統",
     "test 4.md",
     "conflict-files-obsidian-git.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
@@ -226,7 +224,6 @@
     "2025-11-06.md",
     "進銷存系統/進銷存系統.md",
     "().md",
-    "2025-10-22.md",
-    "test site 1.md"
+    "2025-10-22.md"
   ]
 }
