@@ -1,2 +1,6 @@
 - 網址：https://berify.me/
-- 
+- 流程：
+	- 輸入手機號碼
+	- 上傳證件
+		- https://www.clearme.com/
+	- 上傳自拍
