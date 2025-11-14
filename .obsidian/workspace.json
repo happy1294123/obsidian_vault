@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ragic/基本資料.md",
+                "file": "工作職責/工作職責 - 總覽.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本資料"
+              "title": "工作職責 - 總覽"
             }
           }
         ]
@@ -181,6 +181,8 @@
   "active": "a9c07eb86bb9310a",
   "lastOpenFiles": [
     "ragic/基本資料.md",
+    "工作職責/工作職責 - 總覽.md",
+    "工作職責",
     "ragic",
     "設計思考/流程圖/使用票卷流程.canvas",
     "產品使用心得/Berify.me.md",
@@ -206,7 +208,6 @@
     "設計思考",
     "文中/進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
     "文中/進銷存系統/庫存管理/基本建檔/庫存維護",
-    "文中/進銷存系統/庫存管理/基本建檔",
     "test 4.md",
     "conflict-files-obsidian-git.md",
     "進銷存系統/庫存管理/基本建檔/庫存維護/產品類別.md",
@@ -224,7 +225,6 @@
     "Untitled 1.canvas",
     "2025-11-06.md",
     "進銷存系統/進銷存系統.md",
-    "().md",
-    "2025-10-22.md"
+    "().md"
   ]
 }
