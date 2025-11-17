@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b75649d9d1a9195",
+        "id": "d51dc7cb96122bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "7aafcab27f7428f6",
+            "id": "4b74b98d0c439b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文中/請款作業流程.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "請款作業流程"
+              "title": "New tab"
             }
           }
         ]
@@ -178,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aafcab27f7428f6",
+  "active": "4b74b98d0c439b3a",
   "lastOpenFiles": [
     "文中/請款作業流程.md",
     "文中/請款作業流程",
