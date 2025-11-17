@@ -11,10 +11,14 @@
             "id": "4b74b98d0c439b3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "文中/請款作業流程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "請款作業流程"
             }
           }
         ]
