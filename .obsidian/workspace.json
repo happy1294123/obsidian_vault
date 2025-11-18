@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "設計思考/老闆需求/Rancho 開幕情境.md",
+                "file": "設計思考/老闆需求/銷售授權軟體.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rancho 開幕情境"
+              "title": "銷售授權軟體"
             }
           }
         ]
@@ -181,6 +181,7 @@
   "active": "f496633255dd1c43",
   "lastOpenFiles": [
     "設計思考/老闆需求/Rancho 開幕情境.md",
+    "設計思考/老闆需求/銷售授權軟體.md",
     "設計思考/老闆需求",
     "設計思考/規避線上賣酒.md",
     "設計思考/目標TA.md",
@@ -224,7 +225,6 @@
     "Untitled.canvas",
     "進銷存系統/庫存管理/基本建檔.md",
     "進銷存系統/庫存管理.md",
-    "Untitled 1.canvas",
-    "2025-11-06.md"
+    "Untitled 1.canvas"
   ]
 }
