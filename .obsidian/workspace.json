@@ -11,10 +11,17 @@
             "id": "ad9ab88fd0536e95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "設計思考/流程圖/加入會員流程圖.canvas",
+                "viewState": {
+                  "x": -43.9296875,
+                  "y": 184.82687499999997,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "加入會員流程圖"
             }
           }
         ]
