@@ -8,12 +8,14 @@
 		{"id":"49735e93851d3dd3","type":"text","text":"詢問客人是否要加入會員","x":-980,"y":300,"width":250,"height":60,"color":"2"},
 		{"id":"ccf19fcd0f3a1c59","type":"text","text":"客人排隊入場","x":-1260,"y":300,"width":160,"height":60,"color":"2"},
 		{"id":"2ea86282379bfb27","type":"text","text":"領台親切歡迎 (無安管)","x":-980,"y":380,"width":250,"height":60},
-		{"id":"32158b567ae2646f","type":"text","text":"領台協助加入會員","x":-340,"y":140,"width":250,"height":60}
+		{"id":"32158b567ae2646f","type":"text","text":"領台協助加入會員","x":-340,"y":140,"width":250,"height":60},
+		{"id":"95104f1f68285019","x":-37,"y":512,"width":250,"height":60,"type":"text","text":"入場"}
 	],
 	"edges":[
 		{"id":"23aed386e3f8685a","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7e16e0f382ab7986","toSide":"left","label":"接受加入會員"},
 		{"id":"c4caa1f55b550307","fromNode":"7e16e0f382ab7986","fromSide":"right","toNode":"fd1d5102e8d5c72d","toSide":"left"},
 		{"id":"df4ae38ead805c31","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7b4794fc776fbf26","toSide":"left","label":"拒絕加入會員"},
-		{"id":"bb9d740fe4125a9e","fromNode":"ccf19fcd0f3a1c59","fromSide":"right","toNode":"49735e93851d3dd3","toSide":"left"}
+		{"id":"bb9d740fe4125a9e","fromNode":"ccf19fcd0f3a1c59","fromSide":"right","toNode":"49735e93851d3dd3","toSide":"left"},
+		{"id":"4fc40967ab6de3a2","fromNode":"7b4794fc776fbf26","fromSide":"right","toNode":"95104f1f68285019","toSide":"left"}
 	]
 }
