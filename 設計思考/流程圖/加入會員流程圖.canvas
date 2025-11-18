@@ -4,7 +4,7 @@
 		{"id":"7e16e0f382ab7986","type":"text","text":"QRCode or NFC tag \n加入 Rancho 官方帳號","x":-340,"y":60,"width":250,"height":60,"color":"2"},
 		{"id":"fd1d5102e8d5c72d","type":"text","text":"輸入姓名和電話成功註冊會員","x":2,"y":59,"width":258,"height":61,"color":"2"},
 		{"id":"ad89d29f3a4409df","type":"text","text":"以 line 對話窗聊天方式\n搭配自動回覆\n獲得客人資訊","x":10,"y":140,"width":250,"height":100},
-		{"id":"7b4794fc776fbf26","type":"text","text":"安管身分證","x":-340,"y":520,"width":140,"height":60,"color":"2"},
+		{"id":"7b4794fc776fbf26","type":"text","text":"安管查驗身分證","x":-340,"y":520,"width":180,"height":50,"color":"2"},
 		{"id":"49735e93851d3dd3","type":"text","text":"詢問客人是否要加入會員","x":-980,"y":300,"width":250,"height":60,"color":"2"},
 		{"id":"ccf19fcd0f3a1c59","type":"text","text":"客人排隊入場","x":-1260,"y":300,"width":160,"height":60,"color":"2"},
 		{"id":"2ea86282379bfb27","type":"text","text":"領台親切歡迎 (無安管)","x":-980,"y":380,"width":250,"height":60},
