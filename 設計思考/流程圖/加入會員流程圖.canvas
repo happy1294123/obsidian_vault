@@ -1,14 +1,16 @@
 {
 	"nodes":[
 		{"id":"c8dff374aa7a3669","type":"file","file":"設計思考/老闆需求/Rancho 開幕情境.md","x":-740,"y":-460,"width":400,"height":400},
-		{"id":"49735e93851d3dd3","x":-685,"y":60,"width":250,"height":60,"color":"2","type":"text","text":"客人排隊入場"},
 		{"id":"7e16e0f382ab7986","x":-340,"y":60,"width":250,"height":60,"color":"2","type":"text","text":"QRCode or NFC tag \n加入 Rancho 官方帳號"},
 		{"id":"2ea86282379bfb27","x":-340,"y":140,"width":250,"height":60,"type":"text","text":"領台親切歡迎 (無安管)"},
 		{"id":"fd1d5102e8d5c72d","x":2,"y":59,"width":258,"height":61,"color":"2","type":"text","text":"輸入姓名和電話成功註冊會員"},
-		{"id":"ad89d29f3a4409df","x":10,"y":140,"width":250,"height":100,"type":"text","text":"以 line 對話窗聊天方式\n搭配自動回覆\n獲得客人資訊"}
+		{"id":"ad89d29f3a4409df","x":10,"y":140,"width":250,"height":100,"type":"text","text":"以 line 對話窗聊天方式\n搭配自動回覆\n獲得客人資訊"},
+		{"id":"49735e93851d3dd3","x":-920,"y":300,"width":250,"height":60,"color":"2","type":"text","text":"客人排隊入場"},
+		{"id":"7b4794fc776fbf26","type":"text","text":"QRCode or NFC tag \n加入 Rancho 官方帳號","x":-340,"y":520,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
-		{"id":"23aed386e3f8685a","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7e16e0f382ab7986","toSide":"left"},
-		{"id":"c4caa1f55b550307","fromNode":"7e16e0f382ab7986","fromSide":"right","toNode":"fd1d5102e8d5c72d","toSide":"left"}
+		{"id":"23aed386e3f8685a","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7e16e0f382ab7986","toSide":"left","label":"接受加入會員"},
+		{"id":"c4caa1f55b550307","fromNode":"7e16e0f382ab7986","fromSide":"right","toNode":"fd1d5102e8d5c72d","toSide":"left"},
+		{"id":"df4ae38ead805c31","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7b4794fc776fbf26","toSide":"left","label":"拒絕加入會員"}
 	]
 }
