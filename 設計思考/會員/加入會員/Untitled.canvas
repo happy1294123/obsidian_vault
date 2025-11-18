@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"8b7e0be5343dab50","x":-140,"y":80,"width":250,"height":60,"type":"text","text":"加入會員流程圖"},
-		{"id":"c8dff374aa7a3669","x":-740,"y":-460,"width":400,"height":400,"type":"file","file":"設計思考/老闆需求/Rancho 開幕情境.md"}
+		{"id":"c8dff374aa7a3669","x":-740,"y":-460,"width":400,"height":400,"type":"file","file":"設計思考/老闆需求/Rancho 開幕情境.md"},
+		{"id":"8b7e0be5343dab50","x":-300,"y":-120,"width":250,"height":60,"type":"text","text":"加入會員流程圖"}
 	],
 	"edges":[]
 }
