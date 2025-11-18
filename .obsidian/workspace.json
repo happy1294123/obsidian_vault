@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "980bce3e283ff28b",
+        "id": "1055eae5dfbc1c66",
         "type": "tabs",
         "children": [
           {
-            "id": "f496633255dd1c43",
+            "id": "ad9ab88fd0536e95",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "設計思考/會員/加入會員/加入會員流程圖.canvas",
-                "viewState": {
-                  "x": -395,
-                  "y": -260,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "加入會員流程圖"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -81,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74c35a94e58c150c",
@@ -181,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f496633255dd1c43",
+  "active": "ad9ab88fd0536e95",
   "lastOpenFiles": [
+    "設計思考/流程圖/加入會員流程圖.canvas",
     "工作職責/工作職責 - 總覽.md",
-    "設計思考/會員/加入會員/加入會員流程圖.canvas",
     "設計思考/老闆需求/Rancho 開幕情境.md",
     "設計思考/會員/體驗細節.md",
     "設計思考/會員/加入會員",
