@@ -4,18 +4,33 @@
 		{"id":"7e16e0f382ab7986","type":"text","text":"QRCode or NFC tag \n加入 Rancho 官方帳號","x":-340,"y":60,"width":250,"height":60,"color":"2"},
 		{"id":"fd1d5102e8d5c72d","type":"text","text":"輸入姓名和電話成功註冊會員","x":2,"y":59,"width":258,"height":61,"color":"2"},
 		{"id":"ad89d29f3a4409df","type":"text","text":"以 line 對話窗聊天方式\n搭配自動回覆\n獲得客人資訊","x":10,"y":140,"width":250,"height":100},
-		{"id":"7b4794fc776fbf26","type":"text","text":"安管查驗身分證","x":-340,"y":520,"width":180,"height":50,"color":"2"},
 		{"id":"49735e93851d3dd3","type":"text","text":"詢問客人是否要加入會員","x":-980,"y":300,"width":250,"height":60,"color":"2"},
 		{"id":"ccf19fcd0f3a1c59","type":"text","text":"客人排隊入場","x":-1260,"y":300,"width":160,"height":60,"color":"2"},
 		{"id":"2ea86282379bfb27","type":"text","text":"領台親切歡迎 (無安管)","x":-980,"y":380,"width":250,"height":60},
 		{"id":"32158b567ae2646f","type":"text","text":"領台協助加入會員","x":-340,"y":140,"width":250,"height":60},
-		{"id":"95104f1f68285019","x":-37,"y":512,"width":250,"height":60,"type":"text","text":"入場"}
+		{"id":"29edd6788c66562f","type":"text","text":"掃描 QRCode","x":690,"y":61,"width":148,"height":59,"color":"2"},
+		{"id":"7b4794fc776fbf26","type":"text","text":"安管查驗身份","x":-305,"y":525,"width":180,"height":50,"color":"2"},
+		{"id":"59bfe0828ac2782f","type":"text","text":"查看身份證正反面","x":660,"y":522,"width":178,"height":57,"color":"2"},
+		{"id":"2c3b341869e7c46f","type":"text","text":"客人展示會員QRCode","x":360,"y":61,"width":221,"height":61,"color":"2"},
+		{"id":"4170a5800d4f748e","type":"text","text":"安管查驗身份","x":920,"y":66,"width":145,"height":54,"color":"2"},
+		{"id":"a3f1779cc981f3d3","x":675,"y":140,"width":178,"height":50,"type":"text","text":"開始編輯會員資料"},
+		{"id":"31911b2dda1d59c0","x":1160,"y":66,"width":161,"height":58,"color":"2","type":"text","text":"鏡頭實拍並上傳"},
+		{"id":"d0b8e3c003ba7e97","type":"text","text":"查看身份證正反面並上傳","x":1380,"y":66,"width":225,"height":57,"color":"2"},
+		{"id":"95104f1f68285019","type":"text","text":"入場","x":1840,"y":300,"width":81,"height":60,"color":"2"},
+		{"id":"40d6c120e392f39e","x":1769,"y":165,"width":304,"height":75,"type":"text","text":"日後會員只需出示會員QRCode\n若驗證是本人就可以入場"}
 	],
 	"edges":[
 		{"id":"23aed386e3f8685a","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7e16e0f382ab7986","toSide":"left","label":"接受加入會員"},
 		{"id":"c4caa1f55b550307","fromNode":"7e16e0f382ab7986","fromSide":"right","toNode":"fd1d5102e8d5c72d","toSide":"left"},
 		{"id":"df4ae38ead805c31","fromNode":"49735e93851d3dd3","fromSide":"right","toNode":"7b4794fc776fbf26","toSide":"left","label":"拒絕加入會員"},
 		{"id":"bb9d740fe4125a9e","fromNode":"ccf19fcd0f3a1c59","fromSide":"right","toNode":"49735e93851d3dd3","toSide":"left"},
-		{"id":"4fc40967ab6de3a2","fromNode":"7b4794fc776fbf26","fromSide":"right","toNode":"95104f1f68285019","toSide":"left"}
+		{"id":"6226db11354e27f6","fromNode":"59bfe0828ac2782f","fromSide":"right","toNode":"95104f1f68285019","toSide":"left"},
+		{"id":"2f4b8c9af7813124","fromNode":"fd1d5102e8d5c72d","fromSide":"right","toNode":"2c3b341869e7c46f","toSide":"left"},
+		{"id":"4ed1bf5e81b45ec9","fromNode":"2c3b341869e7c46f","fromSide":"right","toNode":"29edd6788c66562f","toSide":"left"},
+		{"id":"604b2334dbdbe630","fromNode":"7b4794fc776fbf26","fromSide":"right","toNode":"59bfe0828ac2782f","toSide":"left"},
+		{"id":"261942683dc31d89","fromNode":"29edd6788c66562f","fromSide":"right","toNode":"4170a5800d4f748e","toSide":"left"},
+		{"id":"d533189ccf51e96e","fromNode":"4170a5800d4f748e","fromSide":"right","toNode":"31911b2dda1d59c0","toSide":"left"},
+		{"id":"60cfba03463c008d","fromNode":"31911b2dda1d59c0","fromSide":"right","toNode":"d0b8e3c003ba7e97","toSide":"left"},
+		{"id":"e956827b25526da9","fromNode":"d0b8e3c003ba7e97","fromSide":"right","toNode":"95104f1f68285019","toSide":"left"}
 	]
 }
