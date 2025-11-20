@@ -1,4 +1,4 @@
-- 網址：https://berify.me/
+- 網址：[berify.me](https://berify.me/)
 - 流程：
 	- 在電腦網頁端開啟QRCode（不能關閉頁面）
 	- 輸入手機號碼
