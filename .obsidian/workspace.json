@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78df9e582dca9de0",
+        "id": "a48f2829373bbd71",
         "type": "tabs",
         "children": [
           {
-            "id": "730212ffb536cb82",
+            "id": "8543e1df7fa112ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "0-系統架構"
-            }
-          },
-          {
-            "id": "c75592a511024420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dt-設計思考/cn-會員需求/5-存酒系統.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5-存酒系統"
-            }
-          },
-          {
-            "id": "eb305eb66e81f751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dt-設計思考/cn-會員需求/4-快速通關.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4-快速通關"
             }
           }
         ]
@@ -206,11 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "730212ffb536cb82",
+  "active": "8543e1df7fa112ba",
   "lastOpenFiles": [
+    "dt-設計思考/cn-會員需求/4-快速通關.md",
     "dt-設計思考/cn-會員需求/5-存酒系統.md",
     "dt-設計思考/cn-會員需求/0-系統架構.md",
-    "dt-設計思考/cn-會員需求/4-快速通關.md",
     "dt-設計思考/cn-會員需求/3-線上商城.md",
     "dt-設計思考/cn-會員需求/1-會員系統入口.md",
     "dt-設計思考/cn-會員需求/2-票卷功能.md",
