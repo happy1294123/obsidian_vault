@@ -11,10 +11,14 @@
             "id": "a70ccc8a3a598abc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jd-工作職責/0-工作職責 - 總覽.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0-工作職責 - 總覽"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "74c35a94e58c150c",
@@ -177,6 +180,7 @@
   },
   "active": "a70ccc8a3a598abc",
   "lastOpenFiles": [
+    "dt-設計思考/wf-流程圖/0-加入會員流程圖.canvas",
     "pu-產品使用心得/Sevenrooms.md",
     "dt-設計思考/bt-老闆思想/0-老闆思想目錄.md",
     "6-散客為主.md",
@@ -202,10 +206,8 @@
     "5-存酒系統 1.md",
     "dt-設計思考/cn-會員需求/5-存酒系統.md",
     "dt-設計思考/cn-會員需求/3-線上商城.md",
-    "dt-設計思考/bt-老闆思想/1-Rancho 開幕情境.md",
     "wt-文中/作業流程",
     "dt-設計思考/cn-會員需求/5-存酒系統/存酒系統 - 參考圖片/卡片訊息範例截圖.png",
-    "dt-設計思考/wf-流程圖/0-加入會員流程圖.canvas",
     "dt-設計思考/wf-流程圖/1-使用票卷流程.canvas",
     "Untitled",
     "設計思考/會員/加入會員",
