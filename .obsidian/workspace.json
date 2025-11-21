@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fd32344316e602",
+        "id": "d0cb5c9d1b0f3c48",
         "type": "tabs",
         "children": [
           {
-            "id": "239105ab1f0acbe0",
+            "id": "a70ccc8a3a598abc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pu-產品使用心得/Sevenrooms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sevenrooms"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74c35a94e58c150c",
@@ -178,13 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "239105ab1f0acbe0",
+  "active": "a70ccc8a3a598abc",
   "lastOpenFiles": [
+    "pu-產品使用心得/Sevenrooms.md",
     "dt-設計思考/bt-老闆思想/0-老闆思想目錄.md",
     "6-散客為主.md",
     "dt-設計思考/bt-老闆思想/4-兩個場域.md",
     "dt-設計思考/bt-老闆思想/5-夜生活思維.md",
-    "pu-產品使用心得/Sevenrooms.md",
     "dt-設計思考/cn-會員需求/7-訂位系統.md",
     "pu-產品使用心得/Untitled.md",
     "dt-設計思考/cn-會員需求/4-快速通關.md",
